@@ -53,7 +53,7 @@ Proyek ini bertujuan untuk mengevaluasi model prediksi harga rumah menggunakan b
 ### 1. Distribusi Harga Rumah
 ![Distribusi Harga](https://github.com/user-attachments/assets/543ff310-f968-4ca6-80e5-e58ff58a0b43)
 
-Analisis menunjukkan distribusi harga rumah cenderung right-skewed, menunjukkan sebagian besar rumah memiliki harga di kisaran menengah.
+Analisis menunjukkan distribusi harga rumah cenderung right-skewed *(distribusi data yang tidak simetris)*, menunjukkan sebagian besar rumah memiliki harga di kisaran menengah.
 
 ### 2. Matriks Korelasi
 ![Matriks Korelasi](https://github.com/user-attachments/assets/b78049f3-7af9-4856-a872-3702789f7568)
