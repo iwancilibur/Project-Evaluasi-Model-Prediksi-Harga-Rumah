@@ -182,3 +182,6 @@ python evaluasi_model.py
   ```bash
   models/best_model.pkl
   ```
+# Support
+### Dikembangkan oleh: Iwan Muttaqin |  2025
+### Kontak: iwancilibur@gmail.com
