@@ -83,7 +83,7 @@ Hasil evaluasi model:
 
 1. Clone repository:
 ```bash
-git clone https://github.com/username/project-evaluasi-model.git
+git clone https://github.com/iwancilibur/Project-Evaluasi-Model-Prediksi-Harga-Rumah.git
 cd project-evaluasi-model
 ```
 
