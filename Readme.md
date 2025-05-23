@@ -101,6 +101,9 @@ cenderung memiliki harga lebih tinggi.
 | Linear Regression  | 9.70   | 1.32   | 0.65   | 0.64 ± 0.03        |
 | Random Forest      | 1.02   | 1.40   | 0.61   | 0.60 ± 0.03        |
 
+**Perbandingan R-squared Model**:
+![Image](https://github.com/user-attachments/assets/2d732ba2-8f9d-4472-81dd-f0a234f0e439)
+
 ### Visualisasi Hasil
 **Linear Regression**:
 ![Linear Regression](https://github.com/user-attachments/assets/f1df7434-a324-48d0-99a6-810b7755c161)
