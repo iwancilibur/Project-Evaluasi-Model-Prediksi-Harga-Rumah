@@ -14,8 +14,6 @@ Proyek ini bertujuan untuk mengevaluasi model prediksi harga rumah menggunakan b
 - [Evaluasi Model](#-evaluasi-model)
 - [Kesimpulan](#-kesimpulan)
 - [Instalasi](#-instalasi)
-- [Penggunaan](#-penggunaan)
-- [Lisensi](#-lisensi)
 
 ## 📊 Dataset
 
@@ -170,6 +168,8 @@ cenderung memiliki harga lebih tinggi.
     ```bash
     python app.py
     ```
-    
+## Author 
+**Iwan Muttaqin | 2025**
+**iwancilibur@gmail.com**
 
 
