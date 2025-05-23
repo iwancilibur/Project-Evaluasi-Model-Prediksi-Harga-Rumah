@@ -145,8 +145,31 @@ cenderung memiliki harga lebih tinggi.
 - pip
 
 ### Langkah-langkah
-1. Clone repository:
-```bash
-git clone https://github.com/iwancilibur/Project-Evaluasi-Model-Prediksi-Harga-Rumah.git
-cd Project-Evaluasi-Model-Prediksi-Harga-Rumah
-```
+1. **Clone repository:**
+  ```bash
+  git clone https://github.com/iwancilibur/Project-Evaluasi-Model-Prediksi-Harga-Rumah.git
+  cd Project-Evaluasi-Model-Prediksi-Harga-Rumah
+  ```
+
+2. **Create Virtual Environment (Opsional)**
+  ```bash
+  # For Windows:
+  python -m venv venv
+  venv\Scripts\activate
+  
+  # For Linux/Mac:
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+  - Note: After activation, your terminal should show (venv) prefix
+3. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Menjalankan Program:**
+    ```bash
+    python app.py
+    ```
+    
+
+
